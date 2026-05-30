@@ -1,0 +1,11 @@
+quantity,value
+trajectory_var_before,28.3192510821213
+trajectory_var_after,6.824139537292633
+trajectory_reduction_percent,75.9028248398811
+trajectory_residual_F_before,0.9996273348465041
+trajectory_residual_F_after,0.9998860341422636
+K_star_naive_from_cost_curve,30.46875
+K_star_multiplexed_from_cost_curve,80.0
+tau_drift_s,3600.0
+T_Ramsey_s,8.0
+N_TRIALS_scaling,15
