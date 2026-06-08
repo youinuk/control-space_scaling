@@ -130,10 +130,11 @@ The numerical results are intended as reference scaling and robustness benchmark
 
 ## Archival release
 
-For journal submission, create a versioned GitHub release and archive it with Zenodo. Replace the placeholders below with the final public links:
+The public repository for this submission is:
 
-- GitHub: `<GITHUB_URL>`
-- Zenodo DOI: `<ZENODO_DOI>`
+GitHub: https://github.com/youinuk/control-space_scaling
+
+A versioned GitHub release will be archived with Zenodo. The archival Zenodo DOI will be added here after the GitHub release is archived.
 
 ## License
 
