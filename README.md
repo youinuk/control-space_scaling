@@ -134,7 +134,8 @@ The public repository for this submission is:
 
 GitHub: https://github.com/youinuk/control-space_scaling
 
-A versioned GitHub release will be archived with Zenodo. The archival Zenodo DOI will be added here after the GitHub release is archived.
+Zenodo DOI: https://doi.org/10.5281/zenodo.20603261
+
 
 ## License
 
